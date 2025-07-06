@@ -17,7 +17,7 @@ sites:
   - name: contacto.transformandovidas.online
     url: contacto.transformandovidas.online
 
-  - name: Evolution API
+  - name: Evolution
     url: whatsapp.mentordosnerds.com.br
     headers:
       - "CF-Access-Client-Id: $CLOUDFLARE_CLIENT_ID"
