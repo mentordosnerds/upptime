@@ -30,12 +30,12 @@ sites:
       - "CF-Access-Client-Secret: $CLOUDFLARE_CLIENT_SECRET"
 
   - name: Traefik HTTP
-    url: https://mentordosnerds.com.br
+    url: mentordosnerds.com.br
     port: 80
     check: "tcp-ping"
 
   - name: Traefik HTTPS
-    url: https://mentordosnerds.com.br
+    url: mentordosnerds.com.br
     port: 443
     check: "tcp-ping"
 
