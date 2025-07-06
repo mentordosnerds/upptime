@@ -6,12 +6,11 @@ sites:
     url: mentordosnerds.com.br
     port: 80
     check: "tcp-ping"
-    ipv6: true
+
   - name: https://mentordosnerds.com.br
     url: mentordosnerds.com.br
     port: 443
     check: "tcp-ping"
-    ipv6: true
 
 status-website:
   #cname: demo.upptime.js.org
