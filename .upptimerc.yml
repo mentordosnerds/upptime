@@ -29,12 +29,12 @@ sites:
   - name: contacto.transformandovidas.online
     url: contacto.transformandovidas.online
 
-  - name: HTTP Port
+  - name: Traefik HTTP
     url: mentordosnerds.com.br
     port: 80
     check: "tcp-ping"
 
-  - name: HTTPS Port
+  - name: Traefik HTTPS
     url: mentordosnerds.com.br
     port: 443
     check: "tcp-ping"
