@@ -2,12 +2,33 @@ owner: mentordosnerds
 repo: upptime
 
 sites:
-  - name: http://mentordosnerds.com.br
+  - name: Chatwoot
+    url: messages.mentordosnerds.com.br
+
+  - name: Evolution API
+    url: whatsapp.mentordosnerds.com.br
+
+  - name: Wallos
+    url: subscriptions.mentordosnerds.com.br
+
+  - name: LiteLLM
+    url: openapi.mentordosnerds.com.br
+
+  - name: i-9.ai
+    url: i-9.ai
+
+  - name: transformandovidas.online
+    url: transformandovidas.online
+
+  - name: contacto.transformandovidas.online
+    url: contacto.transformandovidas.online
+
+  - name: HTTP Port
     url: mentordosnerds.com.br
     port: 80
     check: "tcp-ping"
 
-  - name: https://mentordosnerds.com.br
+  - name: HTTPS Port
     url: mentordosnerds.com.br
     port: 443
     check: "tcp-ping"
