@@ -7,12 +7,18 @@ sites:
 
   - name: Evolution API
     url: whatsapp.mentordosnerds.com.br
+    headers:
+      - "CF-Access-Client-Id: $CLOUDFLARE_CLIENT_ID"
+      - "CF-Access-Client-Secret: $CLOUDFLARE_CLIENT_SECRET"
 
   - name: Wallos
     url: subscriptions.mentordosnerds.com.br
 
   - name: LiteLLM
     url: openapi.mentordosnerds.com.br
+    headers:
+      - "CF-Access-Client-Id: $CLOUDFLARE_CLIENT_ID"
+      - "CF-Access-Client-Secret: $CLOUDFLARE_CLIENT_SECRET"
 
   - name: i-9.ai
     url: i-9.ai
