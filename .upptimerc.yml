@@ -3,39 +3,39 @@ repo: upptime
 
 sites:
   - name: Chatwoot
-    url: messages.mentordosnerds.com.br
+    url: https://messages.mentordosnerds.com.br
 
   - name: Wallos
-    url: subscriptions.mentordosnerds.com.br
+    url: https://subscriptions.mentordosnerds.com.br
 
   - name: i-9.ai
-    url: i-9.ai
+    url: https://i-9.ai
 
   - name: transformandovidas.online
-    url: transformandovidas.online
+    url: https://transformandovidas.online
 
   - name: contacto.transformandovidas.online
-    url: contacto.transformandovidas.online
+    url: https://contacto.transformandovidas.online
 
   - name: Evolution API
-    url: whatsapp.mentordosnerds.com.br
+    url: https://whatsapp.mentordosnerds.com.br
     headers:
       - "CF-Access-Client-Id: $CLOUDFLARE_CLIENT_ID"
       - "CF-Access-Client-Secret: $CLOUDFLARE_CLIENT_SECRET"
 
   - name: LiteLLM
-    url: openapi.mentordosnerds.com.br
+    url: https://openapi.mentordosnerds.com.br
     headers:
       - "CF-Access-Client-Id: $CLOUDFLARE_CLIENT_ID"
       - "CF-Access-Client-Secret: $CLOUDFLARE_CLIENT_SECRET"
 
   - name: Traefik HTTP
-    url: mentordosnerds.com.br
+    url: https://mentordosnerds.com.br
     port: 80
     check: "tcp-ping"
 
   - name: Traefik HTTPS
-    url: mentordosnerds.com.br
+    url: https://mentordosnerds.com.br
     port: 443
     check: "tcp-ping"
 
