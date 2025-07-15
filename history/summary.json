@@ -59,18 +59,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/transformandovidas.online.ico",
     "slug": "transformandovidas-online",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.07%",
+    "uptimeDay": "91.54%",
+    "uptimeWeek": "98.79%",
+    "uptimeMonth": "99.07%",
+    "uptimeYear": "99.07%",
     "time": 623,
     "timeDay": 344,
     "timeWeek": 425,
     "timeMonth": 623,
     "timeYear": 623,
     "dailyMinutesDown": {
-      "2025-07-14": 0
+      "2025-07-15": 113,
+      "2025-07-14": 9
     }
   },
   {
