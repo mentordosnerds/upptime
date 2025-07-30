@@ -4,18 +4,19 @@
     "url": "https://messages.mentordosnerds.com.br",
     "icon": "https://icons.duckduckgo.com/ip3/messages.mentordosnerds.com.br.ico",
     "slug": "chatwoot",
-    "status": "up",
-    "uptime": "90.04%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "65.77%",
-    "uptimeMonth": "90.04%",
-    "uptimeYear": "90.04%",
+    "status": "down",
+    "uptime": "90.36%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "75.80%",
+    "uptimeMonth": "90.36%",
+    "uptimeYear": "90.36%",
     "time": 847,
     "timeDay": 938,
-    "timeWeek": 739,
+    "timeWeek": 769,
     "timeMonth": 847,
     "timeYear": 847,
     "dailyMinutesDown": {
+      "2025-07-30": 0,
       "2025-07-25": 1190,
       "2025-07-24": 1250,
       "2025-07-23": 1010
@@ -26,9 +27,9 @@
     "url": "https://subscriptions.mentordosnerds.com.br",
     "icon": "https://icons.duckduckgo.com/ip3/subscriptions.mentordosnerds.com.br.ico",
     "slug": "wallos",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -37,25 +38,29 @@
     "timeWeek": 706,
     "timeMonth": 895,
     "timeYear": 895,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-30": 0
+    }
   },
   {
     "name": "i-9.ai",
     "url": "https://i-9.ai",
     "icon": "https://icons.duckduckgo.com/ip3/i-9.ai.ico",
     "slug": "i-9-ai",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 593,
-    "timeDay": 362,
-    "timeWeek": 443,
-    "timeMonth": 593,
-    "timeYear": 593,
-    "dailyMinutesDown": {}
+    "time": 584,
+    "timeDay": 290,
+    "timeWeek": 415,
+    "timeMonth": 584,
+    "timeYear": 584,
+    "dailyMinutesDown": {
+      "2025-07-30": 0
+    }
   },
   {
     "name": "transformandovidas.online",
@@ -63,18 +68,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/transformandovidas.online.ico",
     "slug": "transformandovidas-online",
     "status": "down",
-    "uptime": "37.30%",
+    "uptime": "36.10%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "37.30%",
-    "uptimeYear": "37.30%",
+    "uptimeMonth": "36.10%",
+    "uptimeYear": "36.10%",
     "time": 623,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 623,
     "timeYear": 623,
     "dailyMinutesDown": {
-      "2025-07-30": 114,
+      "2025-07-30": 1272,
       "2025-07-29": 1440,
       "2025-07-28": 1440,
       "2025-07-27": 1440,
@@ -98,18 +103,20 @@
     "url": "https://contacto.transformandovidas.online",
     "icon": "https://icons.duckduckgo.com/ip3/contacto.transformandovidas.online.ico",
     "slug": "contacto-transformandovidas-online",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 561,
-    "timeDay": 363,
-    "timeWeek": 445,
-    "timeMonth": 561,
-    "timeYear": 561,
-    "dailyMinutesDown": {}
+    "time": 552,
+    "timeDay": 282,
+    "timeWeek": 415,
+    "timeMonth": 552,
+    "timeYear": 552,
+    "dailyMinutesDown": {
+      "2025-07-30": 0
+    }
   },
   {
     "name": "Evolution API",
@@ -152,9 +159,9 @@
     "url": "mentordosnerds.com.br",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "traefik-http",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -163,16 +170,18 @@
     "timeWeek": 104,
     "timeMonth": 112,
     "timeYear": 112,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-30": 0
+    }
   },
   {
     "name": "Traefik HTTPS",
     "url": "mentordosnerds.com.br",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "traefik-https",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -181,6 +190,8 @@
     "timeWeek": 104,
     "timeMonth": 113,
     "timeYear": 113,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-30": 0
+    }
   }
 ]
